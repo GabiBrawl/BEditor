@@ -29,3 +29,19 @@ __________________________V3__________________________ 02/04/2022
 * Added go back command option in the "Other app" menu.
 * Added caption for when fields are left blank.
 * Optimized the code.
+
+
+__________________________V4__________________________ 27/12/2022
+* Removed a working mode: Normal
+  * Shortcut already does the trick ;)
+* Reduced the script size by half
+  * Used calling to reduce repeated code
+  * Upgraded the code to reduce repeated code on file creation.
+* Corrected bugs:
+  * Bugs related to this version
+  * Bugs related with directories and file names with spaces
+* New pre-defined text editing app: VS Code!
+* Redesigned the whole "UI". Now sinced with SPOTdl's UI.
+  * Help file is now more detailed.
+  * Titles on all menus
+  * Neat spacings
